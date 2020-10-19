@@ -29,8 +29,12 @@ $ bash download_weights.sh
 模型测试
 
 ```shell
-$ python test.py --weights_path weights/yolov3.weights
+$ python detect.py --image_folder data/samples/
 ```
+
+![](C:\Users\szu\Desktop\CVHub\img\1603116032(1).jpg)
+
+![](C:\Users\szu\Desktop\CVHub\img\1603115957(1).jpg)
 
 ## 训练Pascal Voc2007数据集
 
