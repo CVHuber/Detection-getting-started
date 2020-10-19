@@ -1,10 +1,6 @@
 # Detection-getting-started
 
-------
-
 A minimal PyTorch implementation of YOLOv3, with support for training custom dataset, inference and evaluation.
-
-------
 
 ## Installation
 
