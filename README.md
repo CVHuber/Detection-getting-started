@@ -32,9 +32,9 @@ $ bash download_weights.sh
 $ python detect.py --image_folder data/samples/
 ```
 
-![](C:\Users\szu\Desktop\CVHub\img\1603116032(1).jpg)
+![](./assets/output2.jpg)
 
-![](C:\Users\szu\Desktop\CVHub\img\1603115957(1).jpg)
+![](./assets/output1.jpg)
 
 ## 训练Pascal Voc2007数据集
 
