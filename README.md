@@ -34,7 +34,7 @@ $ python test.py --weights_path weights/yolov3.weights
 
 ## 训练Pascal Voc2007数据集
 
-[点这里]: https://mp.weixin.qq.com/s/QgYeZnGWYysEAdI94lar_A
+[参考]: https://mp.weixin.qq.com/s/QgYeZnGWYysEAdI94lar_A
 
 训练命令
 
